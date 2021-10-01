@@ -1,3 +1,7 @@
+.Pokedex {
+  text-align: center;
+}
+
 .Pokedex-cards {
   display: flex;
   justify-content: space-evenly;
@@ -6,6 +10,12 @@
 
 }
 
-.Pokedex-title {
+.Pokedex-winner {
+  color: green;
+  text-align: center;
+}
+
+.Pokedex-loser {
+  color: red;
   text-align: center;
 }
